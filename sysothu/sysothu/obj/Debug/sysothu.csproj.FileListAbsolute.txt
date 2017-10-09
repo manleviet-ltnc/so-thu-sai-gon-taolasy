@@ -1,0 +1,10 @@
+E:\github\so-thu-sai-gon-taolasy\sysothu\sysothu\obj\Debug\sysothu.csprojResolveAssemblyReference.cache
+E:\github\so-thu-sai-gon-taolasy\sysothu\sysothu\obj\Debug\See4urselfAnimal.Form1.resources
+E:\github\so-thu-sai-gon-taolasy\sysothu\sysothu\obj\Debug\sysothu.Properties.Resources.resources
+E:\github\so-thu-sai-gon-taolasy\sysothu\sysothu\obj\Debug\sysothu.csproj.GenerateResource.Cache
+E:\github\so-thu-sai-gon-taolasy\sysothu\sysothu\obj\Debug\sysothu.csproj.CoreCompileInputs.cache
+E:\github\so-thu-sai-gon-taolasy\sysothu\sysothu\bin\Debug\sysothu.exe.config
+E:\github\so-thu-sai-gon-taolasy\sysothu\sysothu\bin\Debug\sysothu.exe
+E:\github\so-thu-sai-gon-taolasy\sysothu\sysothu\bin\Debug\sysothu.pdb
+E:\github\so-thu-sai-gon-taolasy\sysothu\sysothu\obj\Debug\sysothu.exe
+E:\github\so-thu-sai-gon-taolasy\sysothu\sysothu\obj\Debug\sysothu.pdb
